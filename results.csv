@@ -1,4 +1,4 @@
-,name,time,param,mse error
+,name,time (seconds),param,mse error
 0,KNeighborsRegressor,957.2736222743988,"{'clf__algorithm': 'ball_tree', 'clf__leaf_size': 12, 'clf__n_neighbors': 20, 'clf__weights': 'uniform'}",198361906.75480375
 1,RandomForestRegressor,139.46862936019897,"{'clf__max_depth': 20, 'clf__min_samples_split': 5}",207304527.13626686
 2,MLP,119.18104553222656,,226121646.93063423
