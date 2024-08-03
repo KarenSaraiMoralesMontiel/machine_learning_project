@@ -1,15 +1,15 @@
-##Proyecto Final: Moddelo de Predicción de Vehículos Usados
+# Proyecto Final: Modelo de Predicción de Vehículos Usados
 
-**Objetivo  general**
+**Objetivo general**
 Desarrollar un modelo de aprendizaje supervisado para la estimación de precios de coches usados de la base de datos usada en el reto KaggleX Skill Assessment Challenge 2024.
 
 ![imagen](https://github.com/user-attachments/assets/37965309-17a1-48a8-a3b1-62f938bad980)
 
-**Objetivos específico**
+**Objetivos específicos**
 
-Desarrollar modelos de regresión linear clásico y una MLP.
-Evaluar el modelo de regresión linear por medio de la métrica ECM.
-Comparar los modelos entrenados.
+- Desarrollar modelos de regresión lineal clásico y una MLP.
+- Evaluar el modelo de regresión lineal por medio de la métrica ECM.
+- Comparar los modelos entrenados.
 
 **Resultados**
 
@@ -21,3 +21,4 @@ Comparar los modelos entrenados.
 | Linear Regression     | 0.0532186   | 1                                                                                         | 226915527  |
 | DecisionTreeRegressor | 0.97377157  | {'clf__criterion': 'friedman_mse', 'clf__max_depth': None, 'clf__min_samples_split': 5}    | 232297417  |
 | LogisticRegressor     | 2337.74438  | {'clf__C': 0.1, 'clf__penalty': 'l2'}                                                     | 307414507  |
+
