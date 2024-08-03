@@ -1,7 +1,7 @@
 # Proyecto Final: Modelo de Predicción de Vehículos Usados
 
 ## Objetivo general
-Desarrollar un modelo de aprendizaje supervisado para la estimación de precios de coches usados de la base de datos usada en el reto KaggleX Skill Assessment Challenge 2024.
+Desarrollar un modelo de aprendizaje supervisado para la estimación de precios de vehículos usados de la base de datos usada en el reto KaggleX Skill Assessment Challenge 2024.
 
 
 ## Objetivos específicos
