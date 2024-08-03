@@ -3,7 +3,6 @@
 ## Objetivo general
 Desarrollar un modelo de aprendizaje supervisado para la estimación de precios de coches usados de la base de datos usada en el reto KaggleX Skill Assessment Challenge 2024.
 
-![imagen](https://github.com/user-attachments/assets/37965309-17a1-48a8-a3b1-62f938bad980)
 
 ## Objetivos específicos
 
