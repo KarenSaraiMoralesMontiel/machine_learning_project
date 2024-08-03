@@ -12,7 +12,7 @@ Desarrollar un modelo de aprendizaje supervisado para la estimación de precios 
 
 ## Resultados
 
-| Nombre                | Tiempo      | Párametros                                                                                 | MSE_error  |
+| Nombre                | Tiempo (segundos)      | Párametros                                                                                 | MSE_error  |
 |-----------------------|-------------|-------------------------------------------------------------------------------------------|------------|
 | KNeighborsRegressor   | 957.273622  | {'clf__algorithm': 'ball_tree', 'clf__leaf_size': 12, 'clf__n_neighbors': 20, 'clf__weights': 'uniform'} | 198361907  |
 | RandomForestRegressor | 139.468629  | {'clf__max_depth': 20, 'clf__min_samples_split': 5}                                        | 207304527  |
